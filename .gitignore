@@ -1,0 +1,26 @@
+# Visual Studio generated files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Roslyn
+.vs/
+
+# Rider
+.idea/
+
+# SQL Server Database Files
+*.mdf
+*.ldf
+!packages/.vs/
+bin/
+obj/
+packages/
+Debug/
+Release/
+*.user
+*.suo
