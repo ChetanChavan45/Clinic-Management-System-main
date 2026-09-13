@@ -129,14 +129,17 @@ A normalized relational design with **13 core tables** ensuring efficiency, accu
 
 ## 👨‍💻 Developer
 
-Developed individually by **[Wael Mohammed](https://www.linkedin.com/in/wael-mohammed-sharif)**  
-Focus areas: _C#, .NET Framework, ADO.NET, 3-Tier Architecture, and SQL Server._
+Adapted and maintained by **Chetan Chavan**  
+Focus areas: _C#, .NET Framework, ADO.NET, 3-Tier Architecture, Object-Oriented Programming, and SQL Server._
+
+Original project developed by **Wael Mohammed**.
 
 ---
 
 ## 📄 License
 
-This project is for **educational and training purposes**.  
-You are free to explore, learn, and adapt ideas — please credit the original developer.
+This project is used for **educational, learning, and development purposes**.
+
+The original developer is credited for the base project. Any modifications, updates, or enhancements in this repository are maintained by **Chetan Chavan**.
 
 ---
